@@ -1,0 +1,20 @@
+{
+  "payer": {
+    "name": "Jane Q. Example",
+    "address": ["123 Main Street", "Springfield, IL 62701"]
+  },
+  "bank": {
+    "name": "Example National Bank",
+    "address": ["Springfield, IL"],
+    "fractional_routing": "12-3456/7890"
+  },
+  "routing_number": "123456780",
+  "account_number": "000123456789",
+  "first_check_number": 1001,
+  "micr_style": "business",
+  "micr_check_number_digits": 6,
+  "date_format": "%m/%d/%Y",
+  "signature_image": null,
+  "offset_x": 0.0,
+  "offset_y": 0.0
+}

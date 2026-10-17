@@ -1,0 +1,22 @@
+# your bank details, signature and printed checks
+config.json
+checks/
+signature*.png
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-win/
+
+# build output
+build/
+dist/
+*.spec
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
